@@ -162,7 +162,7 @@ a:hover{
     transition: 0.5s ease;
     color: white;
 }
-.detail:hover{
+.team-item:hover .detail{
     border-radius: 0 30px;
 }
 .contact-form input{
